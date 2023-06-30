@@ -1,6 +1,6 @@
--- Basic Framework Plugin
--- by QSC
--- October 2020
+-- LG BU60PST Serial Control
+-- by Paul Zander
+-- June 2023
 
 -- Information block for the plugin
 PluginInfo = {
